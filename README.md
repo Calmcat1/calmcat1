@@ -19,5 +19,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calmcat1&repo=util-files-for-future-APIs&theme=synthwave" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calmcat1&repo=price-aggregator-mobile-phones-&synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calmcat1&repo=price-aggregator-mobile-phones-&theme=synthwave" />
 </a>
