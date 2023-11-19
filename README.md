@@ -17,8 +17,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=calmcat1&repo=util-files-for-future-APIs)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calmcat1&repo=taraCryptov2FullStack" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calmcat1&repo=price-aggregator-mobile-phones-" />
 </a>
