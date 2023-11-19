@@ -10,7 +10,7 @@
 
 <p float="left" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px" href="http://www.linkedin.com/in/lee-gitonga-3a5921242"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50px" />
@@ -37,10 +37,13 @@
 - 🌱 im also interested in finance, you can check my crypto site if interested as well
 
 # Stats
+
+<p float="left">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calmcat1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-# Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calmcat1&hide=TeX&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
 
 # My repositories
 
