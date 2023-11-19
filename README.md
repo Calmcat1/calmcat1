@@ -1,9 +1,10 @@
 ### Hi there 👋
 ### Im a API specialist and fullstack Developer
 
+# Lan
 <html>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="width: 100px; " />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="width: 50px; " />
           
  
 </html>
