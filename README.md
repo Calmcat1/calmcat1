@@ -11,7 +11,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calmcat1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calmcat1&hide=TeX&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calmcat1&hide=TeX&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # My repositories
 
