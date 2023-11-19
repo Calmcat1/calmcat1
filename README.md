@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Im a API specialist and fullstack Developer
+### Im an API specialist and fullstack Developer
 
 
 <html>
