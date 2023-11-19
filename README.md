@@ -1,3 +1,10 @@
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
+
+<i class="devicon-devicon-plain"></i>
+
+
 ### Hi there 👋
 ### Im a API specialist and fullstack Developer
 
