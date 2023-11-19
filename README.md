@@ -18,8 +18,8 @@
           
 </html>
 
-### Hi there 👋
-### Im an API specialist and fullstack Developer
+# Hi there 👋
+# Im an API specialist and fullstack Developer
 
  
 - 🔭 I’m currently working on ... Leveling up my Data Structures and Algorithims skills
