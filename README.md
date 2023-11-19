@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Im a API specialist and fullstack Developer
 
-
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
 
 - 🔭 I’m currently working on ... Leveling up my Data Structures and Algorithims skills
 - 🌱 I’m currently learning ...DSA/python CSS/JS/HTML
