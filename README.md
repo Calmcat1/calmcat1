@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Im a API specialist and fullstack Developer
 
-<style>
+
   .devicon-devicon-plain {
   max-width: 2em;
 }
@@ -10,7 +10,7 @@
 .devicon-devicon-plain path {
   fill: #4691f6;
 }
-</style>
+
 
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
 
