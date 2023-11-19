@@ -13,11 +13,10 @@
 # Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calmcat1&hide=TeX&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-# Some of my Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=calmcat1&repo=util-files-for-future-APIs)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calmcat1&repo=taraCryptov2FullStack" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calmcat1&repo=util-files-for-future-APIs" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calmcat1&repo=price-aggregator-mobile-phones-" />
