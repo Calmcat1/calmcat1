@@ -2,17 +2,8 @@
 ### Im a API specialist and fullstack Developer
 
 
-  .devicon-devicon-plain {
-  max-width: 2em;
-}
+ 
 
-/* if you want to change the original color */
-.devicon-devicon-plain path {
-  fill: #4691f6;
-}
-
-
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
 
 - 🔭 I’m currently working on ... Leveling up my Data Structures and Algorithims skills
 - 🌱 I’m currently learning ...DSA/python CSS/JS/HTML
