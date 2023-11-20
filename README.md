@@ -38,9 +38,9 @@
 
 ## My repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/calmcat1/util-files-for-future-APIs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calmcat1&repo=util-files-for-future-APIs&theme=synthwave" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/calmcat1/price-aggregator-mobile-phones-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calmcat1&repo=price-aggregator-mobile-phones-&theme=synthwave" />
 </a>
