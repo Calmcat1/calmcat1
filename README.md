@@ -44,3 +44,6 @@
 <a href="https://github.com/calmcat1/price-aggregator-mobile-phones-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calmcat1&repo=price-aggregator-mobile-phones-&theme=synthwave" />
 </a>
+<a href="https://github.com/Calmcat1/taracryptoversion1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calmcat1&repo=price-aggregator-mobile-phones-&theme=synthwave" />
+</a>
