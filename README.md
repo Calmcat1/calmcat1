@@ -19,12 +19,12 @@
 </html>
 
 # Hi there 👋
-## Im an API specialist and fullstack Developer
+## Im an Web Designer and fullstack Developer
 
  
-- 🔭 I’m currently working on ... Leveling up my Data Structures and Algorithims skills
-- 🌱 I’m currently learning ...DSA/python CSS/JS/HTML
-- 🌱 im also interested in finance, you can check my crypto site if interested as well
+- 🔭 I’m currently working on ... Leveling up my Web development Skills
+- 🌱 I’m currently learning ...DSA/python/ CSS/JS/HTML/React.js/tailwind.css/bootstrap/node.js
+- 🌱 i'm also designing some websites!
 
 ## Stats
 
