@@ -49,4 +49,6 @@
 </a>
 <a href="https://github.com/Calmcat1/Graphix-central">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calmcat1&repo=Graphix-central&theme=synthwave" />
+</a><a href="https://github.com/Calmcat1/graphix-central-v2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calmcat1&repo=graphix-central-v2&theme=synthwave" />
 </a>
