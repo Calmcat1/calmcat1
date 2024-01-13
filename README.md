@@ -19,7 +19,7 @@
 </html>
 
 # Hi there 👋
-## Im an Web Designer and fullstack Developer
+## Im a fullstack Developer!
 
  
 - 🔭 I’m currently working on ... Leveling up my Web development Skills
