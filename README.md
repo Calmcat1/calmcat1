@@ -19,12 +19,13 @@
 </html>
 
 # Hi there 👋
-## Im a fullstack Developer!
+## Im an AI/Automation Enthusiast!
 
  
-- 🔭 I’m currently working on ... Leveling up my Web development Skills
-- 🌱 I’m currently learning ...DSA/python/ CSS/JS/HTML/React.js/tailwind.css/bootstrap/node.js
-- 🌱 i'm also designing some websites!
+- 🔭 I’m currently working on ... Leveling up my Machine Learning skills
+- 🌱 I’m currently learning ...python/Pandas/numPy/matplotlib
+- 🌱 i'm also looking at trends in the manufacturing field
+-  I also have some basic level of web-development skill
 
 ## Stats
 
