@@ -19,7 +19,7 @@
 
  
 - 🔭 I’m currently working on ... Leveling up my Machine Learning skills
-- 🌱 I’m currently learning ...python/Pandas/numPy/matplotlib
+- 🌱 I’m currently learning ... Python/Pandas/numPy/matplotlib
 - 🌱 i'm also learning what i can specialize in
 -  I also have some basic level of web-development skill
 
