@@ -15,12 +15,12 @@
 </html>
 
 # Hi there 👋
-## Im an AI/Automation Enthusiast!
+## Im an Android Developer!
 
  
-- 🔭 I’m currently working on ... Leveling up my Machine Learning skills
-- 🌱 I’m currently learning ... Python/Pandas/numPy/matplotlib
-- 🌱 i'm also learning what i can specialize in
+- 🔭 I’m currently working on ... Making some apps
+- 🌱 I’m currently learning ... Kotlin/jetpackcompose/Android development
+- 🌱 Android Apps soon
 -  I also have some basic level of web-development skill
 
 ## Stats
