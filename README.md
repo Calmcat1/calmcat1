@@ -15,7 +15,7 @@
 </html>
 
 # Hi there 👋
-## Im an Android Developer!
+## Im an Mobile App Developer!
 
  
 - 🔭 I’m currently working on ... Making some apps
