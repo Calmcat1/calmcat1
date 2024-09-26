@@ -34,8 +34,8 @@
 </p>
 
 ## My repositories
-<a href="https://github.com/Calmcat1/taracryptoversion1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calmcat1&repo=taracryptoversion1&theme=synthwave" />
+<a href="https://github.com/Calmcat1/ContactsAppSourceCode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calmcat1&repo=ContactsAppSourceCode&theme=synthwave" />
 </a>
 <a href="https://github.com/Calmcat1/Graphix-central">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calmcat1&repo=Graphix-central&theme=synthwave" />
