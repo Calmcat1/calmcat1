@@ -15,13 +15,13 @@
 </html>
 
 # Hi there 👋
-## Im an Mobile App Developer!
+## Im Software Developer!
 
  
-- 🔭 I’m currently working on ... Making some apps
-- 🌱 I’m currently learning ... Kotlin/jetpackcompose/Android development
-- 🌱 Android Apps soon
--  I also have some basic level of web-development skill
+- 🔭 I’m currently working on ... Increasing my knowledge
+- 🌱 I’m currently learning ... How to develop software Effecively
+- 🌱 Ready to learn
+
 
 ## Stats
 
