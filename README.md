@@ -14,13 +14,21 @@
           
 </html>
 
-# Hi there 👋
-## Im Software Developer!
+👋 Hey there! I'm Calmcat1
+🚀 Software Developer | Problem Solver | Tech Enthusiast
 
- 
-- 🔭 I’m currently working on ... Increasing my knowledge
-- 🌱 I’m currently learning ... How to develop software Effecively
-- 🌱 Ready to learn
+I love building efficient and scalable software solutions. Whether it’s backend APIs, frontend interfaces, or full-stack applications, I enjoy creating structured and well-architected systems.
+
+💡 What drives me?
+
+Writing clean, maintainable, and scalable code
+Learning and applying new technologies efficiently
+Solving real-world problems with structured approaches
+🌱 What I'm Currently Working On
+🔹 Expanding my knowledge in backend development (Spring Boot, Node.js)
+🔹 Improving frontend skills in React & Jetpack Compose
+🔹 Building personal projects to apply and refine my skills
+🔹 Learning more about software architecture & system design
 
 
 ## Stats
