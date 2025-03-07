@@ -40,9 +40,10 @@ I love building efficient and scalable software solutions. Whether it’s backen
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calmcat1&hide=TeX&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
+---
 
 ## My repositories
-<a href="https://github.com/Calmcat1/ContactsAppSourceCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calmcat1&repo=ContactsAppSourceCode&theme=synthwave" />
+<a href="https://github.com/Calmcat1/RRE">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calmcat1&repo=RRE&theme=synthwave" />
 </a>
 
