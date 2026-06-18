@@ -50,7 +50,7 @@ Always eager to learn and grow, I thrive in collaborative environments that push
 
 ## Connect With Me
 
-- 💼 **Professional Network:** [portfolio-page-v2-tan.vercel.app]
+- 💼 **Professional Network:** [<a href=portfolio-page-v2-tan.vercel.app>Portfolio<a>]
 - 📧 **Direct Contact:** [lgitonga101@gmail.com]
 
 
