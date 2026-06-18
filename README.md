@@ -49,7 +49,7 @@ A brief, 2-3 sentence introduction about who you are, what you are passionate ab
 
 ## Connect With Me
 
-- 💼 **Professional Network:** [Link to your LinkedIn, Portfolio, or CV]
+- 💼 **Professional Network:** [portfolio-page-v2-tan.vercel.app]
 - 📧 **Direct Contact:** [lgitonga101@gmail.com]
 
 <p align="center">
