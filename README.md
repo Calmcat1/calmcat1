@@ -6,7 +6,11 @@
 
 # Hi there, I'm [Lee Gitonga] 👋
 
-A brief, 2-3 sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
+I am a Software Engineer specializing in back-end web development, with hands-on experience in Spring Boot 3. I have a strong passion for building scalable and efficient systems, focusing on API development, database design, and clean architecture.
+
+I was an Intern at Turnkey Africa, where I gained valuable experience in software development, problem-solving, and working with industry-standard technologies such as Git, Spring boot, Jira.
+
+Always eager to learn and grow, I thrive in collaborative environments that push innovation and efficiency. Let’s connect! 🚀.
 
 - 🔭 **Current Focus:** Building an Adaptive Offline Data Sync System
 - 🌱 **Learning & Exploration:** Backend development Front-End development, FastAPI, Firebase, Jetpack compose, Python, Kotlin, SQL
