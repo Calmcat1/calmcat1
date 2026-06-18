@@ -14,28 +14,6 @@ A brief, 2-3 sentence introduction about who you are, what you are passionate ab
 
 ---
 
-
-<br>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-<p float="left" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px"/>
-
-</p>
-          
-          
-</html>
-
-# 👋 Hey there! I'm Lee Gitonga 
-
-🚀 **Software Developer | Problem Solver | Tech Enthusiast**  
-
-I love building efficient and scalable software solutions. Whether it’s backend APIs, frontend interfaces, or full-stack applications, I enjoy creating structured and well-architected systems.  
-
----
-
 ## 🌱 What I'm Currently Working On  
 - 🔹 Expanding my knowledge in **backend development** (Spring Boot, Node.js)  
 - 🔹 Improving frontend skills in **React & Jetpack Compose**  
