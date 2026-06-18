@@ -27,7 +27,7 @@ A brief, 2-3 sentence introduction about who you are, what you are passionate ab
 *Tip: You can customize or add categories below to match your unique skillset. You can find more badge styles and icons at [Shields.io](https://shields.io/).*
 
 ### Core Competencies & Core Stack
-<img src="https://img.shields.io/badge/[Python]-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/[Jetpack-compose]-F7DF1E?style=for-the-badge&logoColor=black" /> <img src="https://img.shields.io/badge/[Firebase]-20232A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/[Python]-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/[Jetpackcompose]-F7DF1E?style=for-the-badge&logoColor=black" /> <img src="https://img.shields.io/badge/[Firebase]-20232A?style=for-the-badge" />
 
 ### Tooling, Infrastructure & Ecosystem
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
