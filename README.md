@@ -53,14 +53,13 @@ Always eager to learn and grow, I thrive in collaborative environments that push
 - 💼 **Professional Network:** [portfolio-page-v2-tan.vercel.app]
 - 📧 **Direct Contact:** [lgitonga101@gmail.com]
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
-</p>
-
-
 
 ## My repositories
 <a href="https://github.com/Calmcat1/RRE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calmcat1&repo=RRE&theme=synthwave" />
 </a>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
+</p>
 
