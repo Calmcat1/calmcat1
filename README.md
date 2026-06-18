@@ -1,5 +1,19 @@
 <html>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
+</p>
+
+# Hi there, I'm [Lee Gitonga] 👋
+
+A brief, 2-3 sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
+
+- 🔭 **Current Focus:** Building an Adaptive Offline Data Sync System
+- 🌱 **Learning & Exploration:** Backend development Front-End development, FastAPI, Firebase, Jetpack compose, Python, Kotlin, SQL
+- ⚡ **Core Interests:**  Mobile Application Development, Cloud Computing
+
+---
+
 
 <br>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
