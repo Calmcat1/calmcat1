@@ -1,7 +1,7 @@
 <html>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software Engeneering and Android Development &descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
 
 # Hi there, I'm [Lee Gitonga] 👋
@@ -28,8 +28,6 @@ Always eager to learn and grow, I thrive in collaborative environments that push
 
 ## Technical Ecosystem
 
-*Tip: You can customize or add categories below to match your unique skillset. You can find more badge styles and icons at [Shields.io](https://shields.io/).*
-
 ### Core Competencies & Core Stack
 <img src="https://img.shields.io/badge/[Python]-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/[Jetpackcompose]-F7DF1E?style=for-the-badge&logoColor=black" /> <img src="https://img.shields.io/badge/[Firebase]-20232A?style=for-the-badge" />
 
@@ -40,7 +38,6 @@ Always eager to learn and grow, I thrive in collaborative environments that push
 
 
 ## Stats
-
 <p float="left">
           
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calmcat1&theme=radical&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
